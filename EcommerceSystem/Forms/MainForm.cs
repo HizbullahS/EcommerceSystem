@@ -79,6 +79,8 @@ namespace EcommerceSystem.Forms
         private void btnSales_Click(object sender, EventArgs e)
         {
             ShowControl(new TotalSalesControl());
+
+            // hello
         }
 
         private void btnShipping_Click(object sender, EventArgs e)
